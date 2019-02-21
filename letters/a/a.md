@@ -67,6 +67,15 @@ abolish  /ə'bɒlɪʃ/  v. 废除，废止
     
     abolish the system of exploitation of man by man
     
+abolition  /æbə'lɪʃ(ə)n/ n.废除，取消
+
+    the abolition of slavery
+    
+    the abolition of the death penalty
+    
+abortion /ə'bɔːʃ(ə)n/ n.流产
+
+    
 abortive   /ə'bɔːtɪv/   adj. 落空的，失败的；无效果的  n. 落空，失败
 
     abortive enterprise
@@ -95,6 +104,12 @@ above  /ə'bʌv/ n. 上文 prep. 在...之上；超过
     
     see above left
     
+above-mentioned adj. 上述的   
+
+    above-mentioned facts
+    
+    two above-mentioned 
+    
 abreast /ə'brest/ adv. 并列，并排
 
     abreast of 
@@ -105,6 +120,28 @@ abreast /ə'brest/ adv. 并列，并排
     
     to keep abreast of the times in science
     
-            
+abrogation  /ˌæbrəu'ɡeiʃən/  n. 取消，废除
+
+    express abrogation
+
+    abrogation of judgement
+    
+abrupt  /ə'brʌpt/ adj. 突然的；唐突的；陡峭的；生硬的
+
+    abrupt change
+    
+    abrupt contact  
+    
+    abrupt prose
+    
+    his address was abrupt with that young man
+    
+abruptly   /ə'brʌptli/ adv. 突然的；（言谈举止）唐突的，冒失的；<地址> 陡起地
+
+    The speech abruptly closed
+    
+    His contract was abruptly teminated
+    
+                      
     
      
