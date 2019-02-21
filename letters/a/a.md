@@ -21,7 +21,7 @@ abeyance  /ə'beɪəns/   n. 中止、暂搁、缓办
     
 abide  /ə'baɪd/  v. 遵守;容忍，忍受;居住，逗留
 
-    abide by the contrace
+    abide by the contract
     
     abide by tht law
     
