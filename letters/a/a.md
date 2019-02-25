@@ -142,6 +142,82 @@ abruptly   /ə'brʌptli/ adv. 突然的；（言谈举止）唐突的，冒失�
     
     His contract was abruptly teminated
     
-                      
+absence /'æbs(ə)ns/ n. 缺席，离开，不在场；缺乏                    
     
-     
+    absence of 缺乏
+    
+    absence from duty 缺勤，擅离职守
+    
+    absence of mind 心不在焉
+    
+    Darkness is the absence of light
+    
+    Her absence is due to illness.
+    
+absent   /'æbs(ə)nt/  adj. 缺席的，缺少的；心不在焉的；茫然的
+
+    absent from 缺席
+    
+    an absent nod 心不在焉的点了一下头
+    
+    He is absent on business 他因事缺席
+    
+    Snow is absent in some countries. 有些国家不下雪
+    
+absolute /'æbsəluːt/  adj. 绝对的，完全的；专制的 n. 绝对事物；绝对
+
+    absolute address 绝对地址
+    
+    absolute music 纯音乐
+    
+    He`s an absolute crumb. 他是个十足讨厌的人
+    
+    He`s an absolute sweetheart. 他是个绝对可爱的人
+    
+absolutely   /'æbsəlju:tli/ adv. 完全的，绝对的       
+
+    absolutely necessary 绝对必要
+
+    It`s absolutely impossible 这绝对不可能。
+    
+    It`s absoultely pouring down 真的是倾盆大雨
+    
+    You look absoulutely knackered 你看上去完全筋疲力尽了
+    
+absorb /əb'sɔ:b/ vt. 吸收；吸引；承受；理解；使...全神贯注
+
+        We will not absorb these charges 我们不能承担这些费用
+        
+        with absorbed interest 满腔兴趣
+        
+        The company will absorb all the costs 公司将承担一切费用
+        
+        They are absorbed int experiment 他们专心于实现
+        
+absorption /əb'zɔːpʃ(ə)n/  n. 吸收；吸收作用；专注，专心致志；合并；同化        
+
+    absorption rate 吸收速率
+    
+    the absorption of smaller tribes 吸收/兼并小不了
+    
+    the absorption of small farms into a big one 合并小农场成为一个大农场
+    
+    Complete absorption in sports interfered with his studies 专注运动妨碍了他的学业
+    
+abstract  /'æbstrækt/  n. 抽象；摘要；抽象的概念 adj. 抽象的;深奥的 vt. 提取；使...抽象化 vi. 做摘要
+
+    an abstract concept 抽象概念
+    
+    abstract pictures 抽象画
+    
+    Your idea is too abstract to understand 你的想法太抽象了，令人难以理解
+    
+    Beauty and Truth are abstract ideas 美和真都是抽象概念
+    
+abstraction  /əb'strækʃ(ə)n/  n. 抽象，抽取 抽象化；抽象过程；抽象概念；抽象名称；出神；心不在焉；不切实际的想法；空想   
+
+    the abstarction of the juice from an orange 从橘子中取汁
+    
+    abstrcation is well represented in this exhibition 在这个展览中，抽象艺术得到很好地反映
+    
+    His abstraction was so deep that he did not eat for two days 他极度心不在焉，以至于两天没吃东西     
