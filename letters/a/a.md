@@ -23,7 +23,7 @@ abide  /ə'baɪd/  v. 遵守;容忍，忍受;居住，逗留
 
     abide by the contract
     
-    abide by tht law
+    abide by the law
     
     abide strictly by 
     
