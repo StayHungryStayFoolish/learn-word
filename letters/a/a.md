@@ -29,7 +29,7 @@ abide  /ə'baɪd/  v. 遵守;容忍，忍受;居住，逗留
     
     abide with me
     
-    I can`t abdie him
+    I can`t abide him
     
     I said I would abide by their decision
     
