@@ -76,7 +76,7 @@ abolition  /æbə'lɪʃ(ə)n/ n.废除，取消
 abortion /ə'bɔːʃ(ə)n/ n.流产
 
     
-abortive   /ə'bɔːtɪv/   adj. 落空的，失败的；无效果的  n. 落空，失败
+abortive   /ə'bɔːtɪv/   adj. 落空的，失败的；无效果的；不发育的；流产的  n. 落空，失败
 
     abortive enterprise
     
@@ -198,7 +198,7 @@ absorption /əb'zɔːpʃ(ə)n/  n. 吸收；吸收作用；专注，专心致志
 
     absorption rate 吸收速率
     
-    the absorption of smaller tribes 吸收/兼并小不了
+    the absorption of smaller tribes 吸收/兼并小部落
     
     the absorption of small farms into a big one 合并小农场成为一个大农场
     
@@ -220,4 +220,98 @@ abstraction  /əb'strækʃ(ə)n/  n. 抽象，抽取 抽象化；抽象过程；
     
     abstrcation is well represented in this exhibition 在这个展览中，抽象艺术得到很好地反映
     
-    His abstraction was so deep that he did not eat for two days 他极度心不在焉，以至于两天没吃东西     
+    His abstraction was so deep that he did not eat for two days 他极度心不在焉，以至于两天没吃东西
+    
+absurd  /əb'sɜːd/  adj. 荒谬的；可笑的  n.荒诞；荒诞作品 [强调违背常理的荒谬] ridiculous [强调荒谬到令人发笑的地步]
+
+    Why,that`s absurd ! 唷，真是荒谬！
+
+    What an sbsurd suggestion! 多么荒唐的建议！
+    
+    It was absurd of you to do such a thing ! 你做那样的事是愚蠢的。
+    
+    It`s absurd that they deny my request. 他们拒绝我的要求是荒唐的。
+    
+absurdity  /əb'sɜːdɪtɪ/  n.极端武力的，悖理；荒谬；谬论；荒谬的行为      
+       
+    an absurdity carried to its ultimate 极端的荒谬   
+       
+    Duncan laughed at the absurdity of the situation. 邓肯对这荒唐的情形不以为然。
+
+    It was only later that she could see the absurdity of the situation. 只是到了后来她才看出来哪种局面的荒唐。
+    
+abundance /ə'bʌnd(ə)ns/   n.大量，充足
+
+    There was an abundance of corn last year. 去年玉米大丰收。
+    
+    the tropical island boasts an abundance of wildife. 这个热带岛屿上有大量的野生动植物。
+    
+    The tree yields an abundance of fruit. 这树结果甚多。
+
+abundant  /ə'bʌnd(ə)nt/  adj. 大量的，充足的
+
+    a region abundant in wildlife 野生动物极多的地区
+    
+    abundant in petroleum deposits 石油储量丰富
+    
+abuse /ə'bjuːz/ n.滥用；辱骂；虐待；弊端；恶习；陋习 vt.滥用；辱骂；虐待；
+
+    abuse liability 滥用情绪
+    
+    abuse of patent 滥用专利权
+    
+    abuse of power 滥用权力
+    
+    abuse power for personal gains 以权谋私  
+    
+    egregious abuses of copyright 令人震惊的侵犯版权行为
+    
+    I`ll not abuse your hospitality,your kindness. 我不会辜负你的热情招待和好意。          
+
+abusement n.滥用
+
+academic  /ækə'demɪk/ n.大学生，大学教师；学者 adj. 学院的；学术的；理论的
+
+    academic adviser 学术顾问，学业导师
+    
+    academic career 学历；学业
+    
+    academic city 科学城；大学城
+    
+    academic exchage 学术交流
+    
+    academic forum 学术讲座，学术论坛
+    
+    a centre of academic excellence 一个学术卓著的中心。
+    
+    He had no academic qualifications 他的学历资格欠缺
+
+academy  /ə'kædəmɪ/ n. 专科学校；研究院，学院，学会
+
+    academy of music
+    
+    royal academy of art 英国皇家艺术学院
+    
+accede /ək'siːd/ vi.答应，同意；（正式）加入，参加；就职，即位，继任；（通过财产添加）增加；继承（财产）
+
+    Our government acceded to the treaty 我国政府加入了该条约。
+    
+    He acceded to his master`s wishes 他顺从了主人的意愿。
+    
+    Will you accede to her request? 你答应她的请求吗?
+        
+accelerate /ək'seləreɪt/ v.(使)加快，（使）增速
+
+    accelerate the competition 加快竞争步伐
+    
+    a substance used to accelerate a fire 用以加大火势的物质
+    
+    The car accelerated towards her 汽车朝她加速冲去。
+    
+acceleration   /əkselə'reɪʃ(ə)n/ n.加速；加快； （车辆）加速能力，加速的幅度；<物>加速度；（优秀学生）跳级  
+
+    alam acceleration 急剧加速
+
+    the acceleration of the industrialization process 工业化进程的加快。
+    
+    Now, in 1950 came the great acceleration. 到二十世纪五十年代， 社会的发展速度有了极大提升。
