@@ -315,3 +315,151 @@ acceleration   /əkselə'reɪʃ(ə)n/ n.加速；加快； （车辆）加速能
     the acceleration of the industrialization process 工业化进程的加快。
     
     Now, in 1950 came the great acceleration. 到二十世纪五十年代， 社会的发展速度有了极大提升。
+    
+accent  /'æks(ə)nt/ n.口音；腔调；强调，充电；重读
+
+    accent light 强灯光
+    
+    accent mark 重音符号
+    
+    The accent is on participation 重要的是参与
+    
+    The accent of the report is on safety 报告的重点是安全问题
+    
+    Please accent the first syllable 请重读第一个音节
+    
+    Her accent is noarthern 她说话带有北方口音
+    
+accept v.接受，同意；承认，同意；认为，相信；承担责任
+
+    accept an order 接受订单
+    
+    accept and hear a case 受理案件
+    
+    accept bail 允许保释
+    
+    accept an invitation 接受邀请
+    
+    accept it on these terms 按这些条件加以接受
+    
+    accept one`s fate 承受某人的命运
+    
+    an accepter of fate 命运的接受者
+    
+    their refusal to accept change 他们拒绝接收变化  
+    
+acceptable /ək'septəb(ə)l/  adj. 可接受的，值得接受的
+
+    acceptable quality level  合格质量标准
+    
+    acceptable quality 合格质量，可接受的质量
+    
+    acceptable to 适用于；为…所接受的
+    
+accessory /ək'ses(ə)rɪ/ n.附件，配件
+
+    accessory equipment   辅助设备;附属设备  
+    
+    accessory bag  附件包
+    
+    accessory of a bicycle 自行车的附件
+   
+accident  /'æksɪdənt/  n.意外遭遇，事故；机遇，命运，造化
+
+    accident boat 救生艇
+    
+    accident prevention 事故预防；安全措施
+    
+    accident report 事故报告
+    
+    by accident of 因...的机会；由于...方面的运气
+    
+    car accident 车祸；交通事故
+    
+    The accident was no joke  这场事故可不是儿戏
+    
+    an accident black spot 事故多发地区
+    
+    the cause of the accident is not clear 事故的原因不清楚
+    
+accidental /æksɪ'dent(ə)l/ adj.意外的；偶然发生的
+
+    accidental damage 意外损坏
+    
+    accidental error 偶然误差；随机误差
+    
+    Tt was an accidental meeting 这完全是一次偶然的相会
+    
+accidentally  /ˌæksɪˈdentəlɪ/  adv. 偶然的；意外的；故作意外的；
+
+    We accidentally broke the radio 我们不小心弄坏了收音机
+    
+    He accidentally trod on her foot 他不小心踩了她的脚      
+    
+accommodate /ə'kɒmədeɪt/ v.提供便利；拆借；使适应，顺应，向...提供住处
+
+    accommodate to 改变...以适应
+    
+    acconmmodate with 为...提供...
+    
+    accommodate somebody for the night 留某人住一夜
+    
+    the cottages accommodate up to sex people 小屋可容纳六人居住    
+    
+    I guess this hall to accommodate 1,000 persons 我猜这个大厅能容纳1000人
+    
+accommodation /əkɒmə'deɪʃ(ə)n/  n.便利；通融
+
+    accommodation kite 通融票据
+    
+    It`s a great acommodaion to me 这对我很方便      
+    
+accompaniment /ə'kʌmp(ə)nɪm(ə)nt/   n.伴侣；伴奏；伴随物
+
+    accompaniment of the scale 伴奏
+    
+    Hunger is the accompaniment of the piano 饥饿是贫困的伴随物
+    
+accompany /ə'kʌmpənɪ/ v.伴随，伴奏
+
+    accompany by 随行，在...陪同下，伴奏
+    
+    accompanhy with 陪...同行，伴随着
+    
+    He`ll remain to accompany you 他将留下来陪你
+    
+    May we accompany you on your walk ? 我们陪你一起散步好吗?
+    
+accomplish   /ə'kʌmplɪʃ/   v.完成，达到，实现，做成功
+
+    accomplish one`s mission 完成使命
+    
+    an accomplished pianist 有造诣的钢琴家
+    
+    She wa an elegant and accomplished women . 她是位优雅的才女
+
+accomplishment  /ə'kʌmplɪʃm(ə)nt/  n.完成，实现，技能，才艺，成绩，成就，完成的工作
+
+      the accomplishment of planed objectives 完成既定目标
+      
+      Money will be crucial to the accomplishment of our objectives  要实现我们的目标，钱是至关重要的
+      
+accord /ə'kɔːd/  n.一致；符合；（国家间的）协议 vt.给与，赠与；符合；一致
+
+    accord to 给与
+    
+    accord with 与...一致；同...相符合
+    
+    in of accord with sb. 与某人意见一致
+    
+    according to instructions 依据交到
+    
+    pay is according to quality 依据质量付费      
+       
+
+        
+
+  
+         
+                         
+                  
